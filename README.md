@@ -20,3 +20,6 @@ scram b -j 3
 cd TestAnalyser/Analyser/test
 
 cmsRun run_run3_11X.py   ###can run on 12X - the GT is also updated accordingly
+
+OR 
+cmsRun run_106X.py ###for tests in the backport
